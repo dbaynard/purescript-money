@@ -1,0 +1,17 @@
+{
+    "name": "purescript-money",
+    "set": "0.11.7",
+    "source": "https://github.com/dbaynard/package-sets.git",
+    "depends": [
+         "foldable-traversable",
+         "generics",
+         "globals",
+         "integers",
+         "lists",
+         "math",
+         "modules",
+         "newtype",
+         "prelude",
+         "rationals"
+    ]
+}
